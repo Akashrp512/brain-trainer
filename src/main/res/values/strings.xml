@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Brain trainer app</string>
+    <string name="text_timer">30s</string>
+</resources>
